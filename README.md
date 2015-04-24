@@ -1,8 +1,13 @@
+
 # Cirru::Sepal
 
-TODO: Write a gem description
+Expriment on compiling Cirru to Ruby.
 
-https://www.igvita.com/2008/12/11/ruby-ast-for-fun-and-profit/
+### Idea
+
+Based on this article: [Ruby AST for Fun and Profit][post]
+
+[post]: https://www.igvita.com/2008/12/11/ruby-ast-for-fun-and-profit/
 
 ## Installation
 
